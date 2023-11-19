@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CT.Portfolio.UI.props" />
+</Project>
